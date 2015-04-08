@@ -8,7 +8,7 @@
 //     );
 //   }
 // });
-React.render(
-  <CommentBox />,
-  document.getElementById('content')
-);
+// React.render(
+//   <CommentBox />,
+//   document.getElementById('content')
+// );
